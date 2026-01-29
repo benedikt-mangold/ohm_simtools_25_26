@@ -37,7 +37,7 @@ Hier finden Sie die Links zu den individuellen Repositories der Studierenden.
 | Sophie Appler, Nico Laubner | [Infektionswahrscheinlichkeit an einem durchschnittlichen Tag an der Hochschule](https://github.com/NLaubner/simtools) |
 | Nseguet Manuel, Damian Rutz | [Statistische Bewertung von Schießstrategien in der Battleship-Monte-Carlo-Simulation](https://github.com/LazyDamian/Battleships-Simulation) |
 | Leila Osman | [Simulation der Krankenhausbettenauslastung in Pandemieszenarien](https://github.com/osmanle89739/SDC_Simtools_Project_Nadja_Saleh_Leila_Osman) |
-| Arina Rukina| [Wartezeiten in der ambulanten Psychotherapie in Deutschland](https://github.com/sdc-simtools-Arina-Renata/sdc_simulationstools_Arina-Renata) |
+| Arina Rukina, Renata Figueroa| [Wartezeiten in der ambulanten Psychotherapie in Deutschland](https://github.com/sdc-simtools-Arina-Renata/sdc_simulationstools_Arina-Renata) |
 | Therese Konopatzki | [VIER-GEWINNT](https://github.com/konopatzki-th/connect_four_monte_carlo) |
 | Zesha Weber | [FIFA Ultimate Team - wie viele Packs?](https://github.com/ZeshanWeber/fut-monte-carlo-simulation) |
 
